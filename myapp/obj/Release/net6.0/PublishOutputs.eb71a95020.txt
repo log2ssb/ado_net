@@ -1,0 +1,7 @@
+/Users/rumpidas/Projects/myapp/myapp/obj/Release/net6.0/PubTmp/Out/myapp
+/Users/rumpidas/Projects/myapp/myapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/rumpidas/Projects/myapp/myapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/rumpidas/Projects/myapp/myapp/obj/Release/net6.0/PubTmp/Out/myapp.dll
+/Users/rumpidas/Projects/myapp/myapp/obj/Release/net6.0/PubTmp/Out/myapp.deps.json
+/Users/rumpidas/Projects/myapp/myapp/obj/Release/net6.0/PubTmp/Out/myapp.runtimeconfig.json
+/Users/rumpidas/Projects/myapp/myapp/obj/Release/net6.0/PubTmp/Out/myapp.pdb

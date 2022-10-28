@@ -1,0 +1,7 @@
+/Users/rumpidas/Projects/myapp/publish/myapp
+/Users/rumpidas/Projects/myapp/publish/appsettings.Development.json
+/Users/rumpidas/Projects/myapp/publish/appsettings.json
+/Users/rumpidas/Projects/myapp/publish/myapp.dll
+/Users/rumpidas/Projects/myapp/publish/myapp.deps.json
+/Users/rumpidas/Projects/myapp/publish/myapp.runtimeconfig.json
+/Users/rumpidas/Projects/myapp/publish/myapp.pdb
